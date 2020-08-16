@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Harsh Gupta, I'm a software engineer. And I like to build web-applications.
+
+🌱 I’m currently learning Angular, MongoDB, Nodejs
 <!--
 **harshgupta97/harshgupta97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
