@@ -1,6 +1,6 @@
-### Hi there 👋
-
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harsh-g-32ba46b2/) 
+
+### Hi there 👋
 
 My name is Harsh Gupta, I'm a software engineer. And I like to build web-applications.
 
