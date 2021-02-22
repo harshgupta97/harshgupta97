@@ -4,12 +4,13 @@
 
 My name is Harsh Gupta, I'm a software engineer. And I like to build web-applications.
 
+🌱 I’m currently learning mongoDB and Typescript.
+
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=harshgupta97&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshgupta97&layout=compact&theme=tokyonight" alt="languages" height="165">
 </p>
 
-🌱 I’m currently learning mongoDB and Typescript.
 <!--
 **harshgupta97/harshgupta97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
