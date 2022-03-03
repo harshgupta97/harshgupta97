@@ -6,6 +6,10 @@ My name is Harsh Gupta, I'm a software engineer. And I like to build web-applica
 
 🌱 I’m currently learning mongoDB and Typescript.
 
+<summary><b>🔎 Github Profile Details</b></summary>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshgupta97&theme=github_dark" alt="harshgupta97" align = "center"/></p>
+
+<summary><b>⚡ Github Stats</b></summary>
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=harshgupta97&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshgupta97&layout=compact&theme=tokyonight" alt="languages" height="165">
